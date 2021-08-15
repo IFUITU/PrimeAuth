@@ -1,0 +1,9 @@
+._form{
+    
+        max-width: 50%;
+        left: calc(25%);
+      
+}   
+._form > .card-header{
+    color: #42b983;
+}
